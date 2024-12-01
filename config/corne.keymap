@@ -128,8 +128,8 @@
 
         gaming {
             bindings = <
-&kp Q   &kp W   &kp E   &trans  &trans  &trans       &trans         &kp U   &kp I   &kp O   &trans  &trans
-&kp A   &kp S   &kp D   &trans  &trans  &trans       &trans         &kp J   &kp K   &kp L   &trans  &trans
+&none   &kp Q   &kp W   &kp E   &trans  &trans       &trans         &kp U   &kp I   &kp O   &trans  &trans
+&none   &kp A   &kp S   &kp D   &trans  &trans       &trans         &kp J   &kp K   &kp L   &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans       &trans         &trans  &trans  &trans  &trans  &trans
                         &trans  &trans  &kp SPACE    &cancel_point  &trans  &to 0
             >;
